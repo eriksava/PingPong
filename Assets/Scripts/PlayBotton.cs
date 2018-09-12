@@ -9,6 +9,8 @@ public class PlayBotton : MonoBehaviour {
 
     public void PlayGame(){
 
+
+
         SceneManager.LoadScene("Game");
 
 
