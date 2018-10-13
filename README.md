@@ -1,2 +1,2 @@
 # PingPong
-<img src="PingPong.png">
+![](pingPong.png)
